@@ -133,15 +133,15 @@ In this section, you enable B.Simon to use single sign-on by granting access to 
 
 1. In **Authentication**, select **+ SAML Provider**.
 
-    ![Screenshot that shows the "+ S A M L Provider" option on the "Authentication" page.](./media/harness-tutorial/select-provider.png)
+    ![Screenshot that shows the "+ SAML Provider" option on the "Authentication" page.](./media/harness-tutorial/select-provider.png)
 
 1. In the **Add SAML Provider** dialog, enter a name, then select **Azure** as the SAML provider.
 
-    ![Screenshot that shows "Azure" selected as the S A M L provider in the "Add S A M L Provider" dialog.](./media/harness-tutorial/providers.png)
+    ![Screenshot that shows "Azure" selected as the SAML provider in the "Add SAML Provider" dialog.](./media/harness-tutorial/providers.png)
 
 1. In the **Add SAML Provider** dialog, follow these steps:
 
-    ![Screenshot that shows the "Add S A M L Provider" dialog with the "S A M L Endpoint U R L" field highlighted.](./media/harness-tutorial/endpoint-url.png)
+    ![Screenshot that shows the "Add SAML Provider" dialog with the "SAML Endpoint URL" field highlighted.](./media/harness-tutorial/endpoint-url.png)
 
     a. Copy the URL under **Enter this SAML Endpoint URL as your Harness application's ACS URL**, and paste it in the **Reply URL** in your Azure app.
 
